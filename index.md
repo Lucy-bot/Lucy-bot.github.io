@@ -4,4 +4,5 @@ Welcome to lucy bot's website, an official website for lucy, containing it's Ter
 # Indexes
 
 [Home](https://lucy-bot.github.io)
-[Commands](https://lucy-bot.github.io/commands.md)
+
+[Commands](https://lucy-bot.github.io/commands)
