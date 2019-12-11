@@ -1,3 +1,7 @@
 # Lucy Commands
 -----------------------
-Name | description |
+
+| Command Name  | Description                  |
+| ------------- | ---------------------------- |
+| Content Cell  | Content Cell                 |
+| Content Cell  | Content Cell                 |
