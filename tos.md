@@ -1,4 +1,4 @@
-# Lucy Tos
+# Lucy Terms of Service
 
 # Terms of Service
 
