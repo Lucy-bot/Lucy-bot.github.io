@@ -1,5 +1,3 @@
-# Lucy Terms of Service
-
 # Terms of Service
 
 ### Last updated: December 10th, 2019
