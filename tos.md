@@ -1,49 +1,92 @@
-# Terms of Service
 
-### Last updated: December 10th, 2019
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <link rel="shortcut icon" type="image/png" href="https://cdn.discordapp.com/avatars/627370793369600011/4c1546580a4c4ddba5b7c50a6854b751.png" />
 
-Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the Service.
-By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to access the Service.
+    <meta charset="UTF-8">
 
-## Availability, Errors, and Inaccuracies
-We are constantly updating product and service offerings on the Service. We may experience delays in updating information on the Service and in our advertising on other web sites. The information found on the Service may contain errors or inaccuracies and may not be complete or current. Products or services may be mispriced, described inaccurately, or unavailable on the Service and we cannot guarantee the accuracy or completeness of any information found on the Service.
-We, therefore, reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Lucy | An Discord Bot</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Lucy" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://lucy-bot.github.io/" />
+<meta property="og:url" content="https://lucy-bot.github.io/" />
+<meta property="og:site_name" content="Lucy" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"https://lucy-bot.github.io/","name":"Lucy-bot.github.io","headline":"Lucy-bot.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-## Links To Other Web Sites
-Our Service may contain links to third-party web sites or services that are not owned or controlled by Absolute Development
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=c19c64b544715ff203284b42c44eaa352766d432">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Lucy Terms of Service</h1>
+      <h2 class="project-tagline"></h2>
+      
+      
+    </section>
+    
+        <section class="main-content">
+
+<h3 id="last-updated-december-10th-2019">Last updated: December 10th, 2019</h3>
+
+<p>Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the Service.
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you do not have permission to access the Service.</p>
+
+<h2 id="availability-errors-and-inaccuracies">Availability, Errors, and Inaccuracies</h2>
+<p>We are constantly updating product and service offerings on the Service. We may experience delays in updating information on the Service and in our advertising on other web sites. The information found on the Service may contain errors or inaccuracies and may not be complete or current. Products or services may be mispriced, described inaccurately, or unavailable on the Service and we cannot guarantee the accuracy or completeness of any information found on the Service.
+We, therefore, reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.</p>
+
+<h2 id="links-to-other-web-sites">Links To Other Web Sites</h2>
+<p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Absolute Development
 Absolute Development has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 You acknowledge and agree that Absolute Development shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third-party web sites or services.
-We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
+We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
 
-## Termination
-We may terminate or suspend your access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
-All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+<h2 id="termination">Termination</h2>
+<p>We may terminate or suspend your access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
 
-## Indemnification
-You agree to defend, indemnify and hold harmless Absolute Development and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, or b) a breach of these Terms.
+<h2 id="indemnification">Indemnification</h2>
+<p>You agree to defend, indemnify and hold harmless Absolute Development and its licensee and licensors, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees), resulting from or arising out of a) your use and access of the Service, or b) a breach of these Terms.</p>
 
-## Limitation Of Liability
-In no event shall Absolute Development, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+<h2 id="limitation-of-liability">Limitation Of Liability</h2>
+<p>In no event shall Absolute Development, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.</p>
 
-## Disclaimer
-Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
-Absolute Development its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+<h2 id="disclaimer">Disclaimer</h2>
+<p>Your use of the Service is at your sole risk. The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+Absolute Development its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.</p>
 
-## Exclusions
-Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.
+<h2 id="exclusions">Exclusions</h2>
+<p>Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.</p>
 
-## Governing Law
-These Terms shall be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions.
-Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have had between us regarding the Service.
+<h2 id="governing-law">Governing Law</h2>
+<p>These Terms shall be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions.
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have had between us regarding the Service.</p>
 
-## Changes
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is a material we will provide at least 30 days’ notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
-By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
-## Contact Us
-If you have any questions about these Terms, please contact us.
+<h2 id="changes">Changes</h2>
+<p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is a material we will provide at least 30 days’ notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.</p>
+<h2 id="contact-us">Contact Us</h2>
+<p>If you have any questions about these Terms, please contact us.</p>
 
-## Contact us
-If you have any questions about our Refunds and Refunds Policy, please contact us:
-By email: discordlib@gmail.com
+<h2 id="contact-us-1">Contact us</h2>
+<p>If you have any questions about our Refunds and Refunds Policy, please contact us:
+By email: discordlib@gmail.com</p>
 
-This terms of service is adapted from Dank Memer, Melms Media LLC  
+<p>This terms of service is adapted from Dank Memer, Melms Media LLC</p>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
