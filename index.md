@@ -6,3 +6,6 @@ Welcome to lucy bot's website, an official website for lucy, containing it's Ter
 [Home](https://lucy-bot.github.io)
 
 [Commands](https://lucy-bot.github.io/commands)
+
+[Terms of Service](https://lucy-bot.github.io/tos)
+
