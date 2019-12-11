@@ -1,7 +1,3 @@
 # Lucy Commands
------------------------
 
-| Command Name  | Description                  |
-| ------------- | ---------------------------- |
-| Content Cell  | Content Cell                 |
-| Content Cell  | Content Cell                 |
+To get a look at all the commands, use this in a server that has lucy bot: ```@Lucy#7485 commands```
