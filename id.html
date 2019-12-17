@@ -23,11 +23,10 @@
                                           function(data) { 
   
             // Setting text of element P with id gfg 
-          if(data.ip === 209.232.148.112){
-            $("#gfg").html(data.ip);
-          }else{
-            $("#gfg").html("error 403 forbidden")
+          if(data.ip !== 209.232.148.112)return{
+            $("#gfg").html("403: Forbidden")
           }
+            $("#gfg").html(data.ip)
         }) 
     </script> 
 </head> 
