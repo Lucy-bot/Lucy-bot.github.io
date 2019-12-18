@@ -19,6 +19,13 @@
     x.parentNode.insertBefore(s, x);
   })();
 </script>
+<script>
+  var Woopra = require('woopra');
+
+// The first argument in the constructor is your projectKey
+// options is an object, currently the only option supported is ssl: <true|false> (default: true)
+var woopra = new Woopra('lucy.js.org', options);
+</script>
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Lucy | A Discord Bot</title>
 <meta name="generator" content="Jekyll v3.8.5" />
