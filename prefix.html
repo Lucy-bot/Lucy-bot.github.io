@@ -1,13 +1,45 @@
 <head>
 <title>Lucy | Change Prefix</title>
-<script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-firestore.js"></script>
 </head>
 
 <body>
-<script type="text/javascript">
-const firebase = require("firebase");
-// Required for side-effects
-require("firebase/firestore");
+<script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBuCm2uNzItWCfP8fyQSIIM6KQBA8T0PDE",
+    authDomain: "absolute-database.firebaseapp.com",
+    databaseURL: "https://absolute-database.firebaseio.com",
+    projectId: "absolute-database",
+    storageBucket: "absolute-database.appspot.com",
+    messagingSenderId: "958352714056",
+    appId: "1:958352714056:web:7f69f58cec2ffaa610eb7d",
+    measurementId: "G-9FK5PN1J93"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
 </script>
+ <form>
+  Server id<br>
+  <input type="text" name="serverid"><br>
+  Authorization token<br>
+  <input type="password" name="auth">
+  New Prefix<br>
+  <input type="text" name="prefix">
+   <br><br>
+<button value="Submit" onclick="click()">
+</form>
+  <script type="text/javascript">
+    let click = function(){
+    db.collection('prefix').doc(document.getElementsByName('serverid')).set({
+      prefix: document.getElementsByName('prefix')
+    })
+    }
+  </script>
 </body>
