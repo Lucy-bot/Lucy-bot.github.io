@@ -50,7 +50,37 @@
     </section>
 
     <section class="main-content">
+   <div id="info">
+		<a id="login" style="display: none;" href="https://discordapp.com/api/oauth2/authorize?client_id=627370793369600011&redirect_uri=https%3A%2F%2Flucy.js.org&response_type=code&scope=guilds">Click me to Login</a>
+	</div>
+ <script>
+		window.onload = () => {
+			const fragment = new URLSearchParams(window.location.hash.slice(1));
+
+			if (fragment.has("access_token")) {
+				const accessToken = fragment.get("access_token");
+				const tokenType = fragment.get("token_type");
+
+				fetch('https://discordapp.com/api/users/@me', {
+					headers: {
+						authorization: `${tokenType} ${accessToken}`
+					}
+				})
+					.then(res => res.json())
+					.then(response => {
+						const { username, discriminator } = response;
+						document.getElementById('info').innerText += ` ${username}#${discriminator}`;
+					})
+					.catch(console.error);
+
+			}
+			else {
+				document.getElementById('login').style.display = 'block';
+			}
+		}
+	</script>
 <h1 id="lucy">Lucy</h1>
+      
 <a href="https://top.gg/bot/627370793369600011" > <img src="https://top.gg/api/widget/status/627370793369600011.svg" alt="Lucy" /> </a>
 
 <p><a href="https://lucy.js.org/invite">Invite Me</a></p>
